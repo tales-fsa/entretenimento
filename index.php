@@ -94,6 +94,7 @@ $entretenimento = buscaEntretenimentos($con);
             </button>
         </p>
     <?php } ?>
+    <button>Envia dados</button>
 </body>
 
 </html>
